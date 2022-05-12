@@ -1,8 +1,8 @@
 👋 
 Hi, I’m Sakshi Panchal. I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and i believe i contributing. I’m looking to collaborate on challenging projects.
 Feel free to reach me at: 
-<a> skshpanchal@gmail.com</a>
-#
+<a>skshpanchal@gmail.com</a>
+<a>https://www.linkedin.com/in/sakshi-panchal-328b831b2</a>
 
 <!---
 2331sakshi/2331sakshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
