@@ -2,7 +2,7 @@
 I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and i believe i contributing. I’m looking to collaborate on challenging projects.
 Feel free to reach me at:
 
-<a> <img src ="https://img.shields.io/badge/skshpanchal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  <a href ="https://www.linkedin.com/in/sakshi-panchal-328b831b2"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:skshpanchal@gmail.com" > <img src ="https://img.shields.io/badge/skshpanchal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  <a href ="https://www.linkedin.com/in/sakshi-panchal-328b831b2"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr width ="0.1">
 
