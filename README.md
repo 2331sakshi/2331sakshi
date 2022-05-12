@@ -1,14 +1,14 @@
-👋 
-Hi, I’m Sakshi Panchal. I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and i believe i contributing. I’m looking to collaborate on challenging projects.
+<h1><b>👋 Hi, I’m Sakshi Panchal. </b></h1>
+I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and i believe i contributing. I’m looking to collaborate on challenging projects.
 Feel free to reach me at:
 
 <a><img src ="https://img.shields.io/badge/sakshipanchal-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a>https://www.linkedin.com/in/sakshi-panchal-328b831b2</a>
 
-  <h5> My Stats </h5>
+  <h3><b> Stats </b></h3>
 <img src="https://github-readme-stats.vercel.app/api?username=2331sakshi"/>
 
-  <h5> Languages </h5>
+  <h3> <b>Technologies </b></h3>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/">
