@@ -1,5 +1,5 @@
 <h2><b>👋 Hi, I’m Sakshi Panchal. </b></h2>
-I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and i believe in the art of contribution. I’m looking to collaborate on intriguing projects.
+I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and I believe in the art of contribution. On lookout for collaboration on intriguing projects.
 Feel free to reach me at:
 
 <a href = "mailto:skshpanchal@gmail.com" > <img src ="https://img.shields.io/badge/skshpanchal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  <a href ="https://www.linkedin.com/in/sakshi-panchal-328b831b2"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
