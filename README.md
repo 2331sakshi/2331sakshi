@@ -1,4 +1,4 @@
-<h2><b>👋 Hi, I’m Sakshi Panchal. </b></h2>
+### Hi, I’m Sakshi Panchal !
 I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and I believe in the art of contribution. On lookout for collaboration on intriguing projects.
 Feel free to reach me at:
 
