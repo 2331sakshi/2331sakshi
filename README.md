@@ -1,5 +1,5 @@
-## Hi, I’m Sakshi Panchal !
-I’m currenlty a third year student pursuing BTech in Electronics & Communication Engieering. I'm iterested in front-end development whereas digital electronics also piques my interest. I’m into learning and I believe in the art of contribution. On lookout for collaboration on intriguing projects.
+## Hi there! I’m Sakshi Panchal !
+I’m currently a BTech senior at Delhi Technological University. I’m into learning and I believe in the art of contribution. On lookout for collaboration on intriguing projects with bright minds.
 Feel free to reach me at:
 
 <a href = "mailto:skshpanchal@gmail.com" > <img src ="https://img.shields.io/badge/skshpanchal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>  <a href ="https://www.linkedin.com/in/sakshi-panchal-328b831b2"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
